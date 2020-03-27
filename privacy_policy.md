@@ -1,6 +1,6 @@
 ## Política de Pricavidade
 
-O Monitor Corona é uma Google Gratuita. Este SERVIÇO é fornecido gratuitamente e destina-se ao uso como está.
+O Monitor Corona é uma Google Action gratuita. Este SERVIÇO é fornecido gratuitamente e destina-se ao uso como está.
 
 Esta página é usada para informar os visitantes sobre políticas com a coleta, uso e divulgação de Informações pessoais, se alguém decidir usa-lo.
 
