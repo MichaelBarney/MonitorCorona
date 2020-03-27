@@ -16,11 +16,11 @@ Link para a política de privacidade de provedores de serviços de terceiros usa
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
-**Dados do log **
+**Dados do Log**
 
 Cempre que você usar este Serviço, em caso de erro no aplicativo, dados e informações serão coletados (através de produtos de terceiros) no seu telefone chamado, Log Data. Esses dados de registro podem incluir informações como o endereço IP do dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar este serviço, a hora e a data de uso do serviço e outras estatísticas.
 
-**Coolies**
+**Cookies**
 
 Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Eles são enviados para o navegador a partir dos sites visitados e armazenados na memória interna do dispositivo.
 
@@ -41,15 +41,15 @@ Desejo informar aos usuários deste Serviço que esses terceiros têm acesso às
 
 Valorizo ​​sua confiança em nos fornecer suas informações pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis ​​de protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não posso garantir sua segurança absoluta.
 
-** Links para outros sites **
+**Links para outros sites**
 
 Este serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos não são operados por mim. Portanto, recomendo fortemente que você reveja a Política de Privacidade desses sites. Não tenho controle e não assumo responsabilidade pelo conteúdo, políticas de privacidade ou práticas de sites ou serviços de terceiros.
 
-** Privacidade infantil **
+**Privacidade infantil**
 
 Esses serviços não tratam de menores de 13 anos. Não coleciono intencionalmente informações de identificação pessoal de crianças menores de 13 anos. No caso de descobrir que uma criança menor de 13 anos me forneceu informações pessoais, eu as excluo imediatamente de nossos servidores. Se você é pai ou mãe ou responsável e sabe que seu filho nos forneceu informações pessoais, entre em contato comigo para que eu possa executar as ações necessárias.
 
-** Alterações a esta Política de Privacidade **
+**Alterações a esta Política de Privacidade**
 
 Posso atualizar nossa Política de Privacidade periodicamente. Portanto, é recomendável revisar esta página periodicamente para verificar se há alterações. Eu o notificarei de quaisquer alterações postando a nova Política de Privacidade nesta página. Essas alterações são efetivadas imediatamente após serem publicadas nesta página.
 
